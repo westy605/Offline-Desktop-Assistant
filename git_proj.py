@@ -7,11 +7,11 @@ import os
 
 # ---------------- DATA ----------------
 quotes = [
-    "Keep going, you're doing great! 💪",
-    "Small steps still move you forward 🚀",
-    "Consistency beats talent 🎯",
-    "You are learning real skills 💻",
-    "Every bug you fix makes you better 🧠"
+    "Keep going, you're doing great! ",
+    "Small steps still move you forward ",
+    "Consistency beats talent ",
+    "You are learning real skills ",
+    "Every bug you fix makes you better "
 ]
 
 notes_file = "notes.txt"
@@ -110,3 +110,4 @@ footer = tk.Label(root, text="Made by Westy---100% offline---no setup", font=("A
 footer.pack(pady=10)
 
 root.mainloop()
+
